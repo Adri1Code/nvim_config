@@ -1,0 +1,10 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Fichiers swap / backup / cache Vim
+*.swp
+*.swo
+*~
+*.bak
+.netrwhist

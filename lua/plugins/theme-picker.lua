@@ -33,6 +33,14 @@ return {
     "ellisonleao/gruvbox.nvim",
   },
 
+  {
+    "shaunsingh/nord.nvim",
+  },
+
+  {
+    "Mofiqul/dracula.nvim",
+  },
+
   -- =========================
   -- 🎨 THEME PICKER
   -- =========================
@@ -121,6 +129,16 @@ return {
         {
           name = "Gruvbox",
           colorscheme = "gruvbox",
+        },
+
+        {
+          name = "Nord",
+          colorscheme = "nord",
+        },
+
+        {
+          name = "Dracula",
+          colorscheme = "dracula",
         },
       },
 
